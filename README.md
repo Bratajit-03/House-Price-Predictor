@@ -8,7 +8,6 @@ The house price prediction model is built using machine learning techniques and 
 
 The dataset used to train the house price prediction model can be found at [Dataset](https://www.kaggle.com/datasets/amitabhajoy/bengaluru-house-price-data).
 
-Please note that the dataset is not included in this repository. You can download it from the provided link and use it for training your own model or further analysis.
 
 ## Model Architecture and Implementation
 
